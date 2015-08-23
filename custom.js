@@ -1,6 +1,6 @@
 $('#home').click(function() {
-	$('.home').fadeIn();
-	$('.about').slideUp();
+	$('.home').slideDown();
+	$('.about').fadeOut();
 });
 
 $('#about').click(function() {
