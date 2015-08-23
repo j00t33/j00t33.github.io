@@ -14,7 +14,7 @@ nav {
 }
 
 nav ul {
-	width: 200px;
+	width: 250px;
 	float: right;
 }
 
@@ -50,4 +50,8 @@ nav ul li a:hover {
 	background: #fff;
 	box-shadow: 0 2px 1px #ddd;
 	text-align: center;
+}
+
+.about {
+	display: none;
 }
